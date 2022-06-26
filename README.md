@@ -9,9 +9,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![UIkit](https://img.shields.io/static/v1?style=for-the-badge&message=UIkit&color=2396F3&logo=UIkit&logoColor=FFFFFF&label=)
 
-
+![Laragon](https://img.shields.io/static/v1?style=for-the-badge&message=Laragon&color=0E83CD&logo=Laragon&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 
 
 ## ⚡ Top Languages
