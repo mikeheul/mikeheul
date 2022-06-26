@@ -1,5 +1,5 @@
 ### Hi there, i'm Micka !
-<a href="https://www.linkedin.com/in/mickaël-murmann-3138a715" target="blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/mickaël-murmann-3138a715" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 ## ⚡ Skills
 
