@@ -1,6 +1,6 @@
 ### Hi there, i'm Micka !
 
-[![Linkedin Badge](https://img.shields.io/badge/-mickael-murmann?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mickaël-murmann-3138a715/)](https://www.linkedin.com/in/mickaël-murmann-3138a715/)
+[![Linkedin Badge](https://img.shields.io/badge/-mickael-murmann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mickaël-murmann-3138a715/)](https://www.linkedin.com/in/mickaël-murmann-3138a715/)
 
 
 
