@@ -33,7 +33,7 @@
 ![SketchUp](https://img.shields.io/static/v1?style=for-the-badge&message=SketchUp&color=005F9E&logo=SketchUp&logoColor=FFFFFF&label=)
 
 ## ⚡ Top Languages
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeheul&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeheul&show_icons=true&theme=onedark&hide_border=true)
 
 ## ⚡ My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikeheul&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
