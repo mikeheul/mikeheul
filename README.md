@@ -35,6 +35,15 @@
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 ![SketchUp](https://img.shields.io/static/v1?style=for-the-badge&message=SketchUp&color=005F9E&logo=SketchUp&logoColor=FFFFFF&label=)
 
+#### 📎 Office
+![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
+![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
+![Microsoft Teams](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label=)
+![Microsoft Outlook](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label=)
+![Microsoft PowerPoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+PowerPoint&color=B7472A&logo=Microsoft+PowerPoint&logoColor=FFFFFF&label=)
+![Microsoft OneDrive](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+OneDrive&color=0078D4&logo=Microsoft+OneDrive&logoColor=FFFFFF&label=)
+![Microsoft SharePoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SharePoint&color=0078D4&logo=Microsoft+SharePoint&logoColor=FFFFFF&label=)
+
 ## ⚡ Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeheul&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
