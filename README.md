@@ -10,6 +10,10 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## ⚡ Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeheul&layout=compact)
 
 <!--
