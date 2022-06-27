@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/mickaël-murmann-3138a715" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="15">
 
+🔭 I’m currently working on Symfony and Javascript projects
+🌱 I’m currently learning React / Vue
+
 ## ⚡ Contribution Graph
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mikeheul&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -64,8 +67,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Symfony and Javascript projects
+- 🌱 I’m currently learning React / Vue
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
