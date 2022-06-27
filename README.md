@@ -62,7 +62,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikeheul&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeheul&show_icons=true&theme=onedark&hide_border=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikeheul" alt="mikeheul" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikeheul&theme=nord" alt="mikeheul" /></a> </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mikeheul)
 
