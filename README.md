@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/mickaël-murmann-3138a715" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="15">
 
-:triangular_flag_on_post: I'm currently work as Web Dev Trainer
+:triangular_flag_on_post: I'm currently work as Web Dev Trainer <br>
 🔭 I’m currently working on Symfony and Javascript projects <br>
 🌱 I’m currently learning React / Vue
 
