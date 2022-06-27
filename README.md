@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/mickaël-murmann-3138a715" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="15">
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+START_SECTION:activity
+END_SECTION:activity
 
 ## ⚡ Contribution Graph
 
