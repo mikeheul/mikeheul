@@ -2,6 +2,10 @@
 <a href="https://www.linkedin.com/in/mickaël-murmann-3138a715" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="15">
 
+## ⚡ Contribution Graph
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mikeheul&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## ⚡ Skills
 
 #### :computer: Web Development
