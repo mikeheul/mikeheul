@@ -5,7 +5,7 @@
 
 :triangular_flag_on_post: I'm currently work as Web Dev Trainer (French Training Organization) <br>
 🔭 I’m currently working on Symfony and Javascript projects <br>
-🌱 I’m currently learning React / Vue
+🌱 I’m currently learning React
 
 ## ⚡ Contribution Graph
 
