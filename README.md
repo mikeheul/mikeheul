@@ -1,3 +1,5 @@
+<img style="width:100%" src="https://github.com/mikeheul/mikeheul/blob/main/banner.png">
+
 # Hi there, i'm Micka !
 <a href="https://www.linkedin.com/in/mickaël-murmann-3138a715" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 
