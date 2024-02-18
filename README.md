@@ -1,7 +1,7 @@
 <img style="width:100%" src="https://github.com/mikeheul/mikeheul/blob/main/banner-github.png">
 
 # Hi there, i'm Micka !
-<a href="https://www.linkedin.com/in/mickaël-murmann-3138a715" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
+<a href="https://www.linkedin.com/in/mickael-murmann/" target="_blank"><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 
 :triangular_flag_on_post: I'm currently work as Web Dev Trainer (French Training Organization) <br>
 🔭 I’m currently working on Symfony and Javascript projects <br>
