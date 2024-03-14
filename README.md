@@ -79,8 +79,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikeheul&theme=nord" alt="mikeheul" /></a> </p> -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mikeheul)
-
 <!--
 **mikeheul/mikeheul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
