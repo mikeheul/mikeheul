@@ -18,7 +18,7 @@
 <summary>:computer: Web Development</summary>
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=windows,vscode,git,github,vercel)
+![My Skills](https://skillicons.dev/icons?i=windows,vscode,md,git,github,vercel)
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,jquery,react,redux,ts,tailwind,bootstrap,vite,figma&perline=8)
 
