@@ -26,7 +26,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=npm,yarn,docker,postman&perline=6)
 
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase&perline=6)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,supabase&perline=6)
 
 </details>
 
