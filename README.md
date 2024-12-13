@@ -53,7 +53,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeheul&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikeheul&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikeheul&theme=merko)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeheul&show_icons=true&theme=onedark&hide_border=true)
 
 ![GitHub Graph](http://github-readme-activity-graph.vercel.app/graph?username=mikeheul&theme=rogue&area=true&hide_border=true)
