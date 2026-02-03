@@ -49,13 +49,7 @@
 ![Microsoft SharePoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SharePoint&color=0078D4&logo=Microsoft+SharePoint&logoColor=FFFFFF&label=)
 </details>
 
-## ⚡ Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeheul&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ⚡ Stats
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mikeheul&theme=merko)](https://git.io/streak-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeheul&show_icons=true&theme=onedark&hide_border=true)
-
 ![GitHub Graph](http://github-readme-activity-graph.vercel.app/graph?username=mikeheul&theme=rogue&area=true&hide_border=true)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikeheul&theme=nord" alt="mikeheul" /></a> </p> -->
