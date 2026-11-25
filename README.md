@@ -1,6 +1,5 @@
 <img style="width:100%" src="https://github.com/mikeheul/mikeheul/blob/main/banniere.png">
 
-# Hi there, i'm Micka !
 <a href="https://www.linkedin.com/in/mickael-murmann/" target="blank">![My Skills](https://skillicons.dev/icons?i=linkedin)</a> 
 
 :triangular_flag_on_post: I am currently Head of Training at an engineering school. <br>
