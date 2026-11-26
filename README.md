@@ -10,7 +10,7 @@
 
 ## ⚡ Skills
 
-<details open>
+<details>
 <summary>:computer: Web Development</summary>
 <br>
 
@@ -26,7 +26,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary>:art: Design</summary>
 <br>
   
